@@ -1,0 +1,35 @@
+.main {
+    height: 160vh;
+    position: relative;
+    display: block;
+  }
+  .section01 {
+    display: block;
+    position: relative;
+    padding-bottom: 2vh;
+  }
+
+.header {
+    position: relative;
+  }
+  
+  .headerLogo {
+    position: absolute;
+    width: 20%;
+    top: 2vh;
+    left: 2vw;
+  }
+  
+  .headerJournalSvg {
+    position: absolute;
+    top: -0.5vh;
+    right: 17vw;
+    width: 10%;
+  }
+  
+  .headerAboutSvg {
+    position: absolute;
+    top: -0.5vh;
+    right: 6vw;
+    width: 10%;
+  }
